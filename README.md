@@ -1,4 +1,5 @@
-## 📚 Project Title: Library Management System – SQL Based
+## 📚 Project Title:
+Library Management System – SQL Based
 
 ## 💡 Project Overview:
 This is a fully functional Library Management System designed using SQL to efficiently manage books, authors, library members, and book issue/return records. The system simulates a real-world library environment where administrators can track book availability, manage membership, and generate reports related to book circulation.
