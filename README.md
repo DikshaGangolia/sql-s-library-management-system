@@ -1,15 +1,19 @@
 ## 📚 Project Title:
+
 Library Management System – SQL Based
 
 ## 💡 Project Overview:
+
 This is a fully functional Library Management System designed using SQL to efficiently manage books, authors, library members, and book issue/return records. The system simulates a real-world library environment where administrators can track book availability, manage membership, and generate reports related to book circulation.
 
 ## 🔧 Technologies Used:
+
 MySQL (SQL DDL & DML)
 ER Diagram
 Structured Queries for Reports & Analytics
 
 ## 📊 Key Features:
+
 Add and manage book details, genres, and author information
 Member registration and tracking
 Book issuing and return tracking with issue/return dates
