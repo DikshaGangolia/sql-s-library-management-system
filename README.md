@@ -49,7 +49,6 @@ The system helps administrators track book availability, manage member records, 
 ## 🧠 Database Concepts Demonstrated
 
 This project applies important database management concepts, including:
-
 - Database normalization
 - Schema design
 - Primary keys
