@@ -5,6 +5,7 @@
 ## 📌 Project Overview
 
 The **Library Management System** is a relational database project built using **MySQL and SQL**. It simulates a real-world library environment by organizing and managing information related to books, authors, members, and book circulation.
+
 The system helps administrators track book availability, manage member records, monitor issued and returned books, identify overdue returns, and generate useful reports and analytics.
 
 ---
